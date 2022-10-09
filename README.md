@@ -1,4 +1,4 @@
 # Travland
 Landing page
 HTML CSS JAVASCRIPT
-travland-website.netlify.app
+https://github.com/Navaruz22/Travland
